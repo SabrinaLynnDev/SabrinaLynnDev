@@ -2,9 +2,9 @@
 - 👀 I’m interested in solving problem
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me-@SabrinaLDev on Twitter
+- 📫 How to reach me-@SabrinaLDev on Bluesky 
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: Part time programmer, full time cat person.
 
 <!---
 SabrinaLynnDev/SabrinaLynnDev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
