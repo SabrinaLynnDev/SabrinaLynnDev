@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SabrinaLynnDev
 - 👀 I’m interested in solving problem
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me-@SabrinaLDev on Bluesky 
 - 😄 Pronouns: She/her
